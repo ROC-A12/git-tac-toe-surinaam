@@ -1,11 +1,11 @@
 ### Spelers
-- Speler X = __
-- Speler O = __
+- Speler X = Luka
+- Speler O = Charaf 
 
 ### Bord (simple variant)
 | - | 1 | 2 | 3 |
 |---|---|---|---|
-| A |🔲|🔲|🔲|
+| A |🔲|🔲|x|
 | B |🔲|🔲|🔲|
 | C |🔲|🔲|🔲|
 
